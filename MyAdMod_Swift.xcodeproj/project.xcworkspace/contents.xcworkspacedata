@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MyAdMod_Swift.xcodeproj">
+      location = "self:/Users/apple/Documents/IOS/MyAdMod_Swift/MyAdMod_Swift.xcodeproj">
    </FileRef>
 </Workspace>
